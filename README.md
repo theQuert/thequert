@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=thequert&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=thequert&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&card_width=150" />
 <!--
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequert&layout=compact&title_color=81A1C1&bg_color=ffffff&count_private=true&theme=dark" />
 -->
